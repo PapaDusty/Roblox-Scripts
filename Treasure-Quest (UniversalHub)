@@ -1,0 +1,4 @@
+--[[ not my script, the owners discord is here:
+     https://discord.gg/rjRzcQMfxS
+]]--
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Treasure-Quest'))() 
